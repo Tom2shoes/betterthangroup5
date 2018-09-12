@@ -43,8 +43,8 @@ Crystal (Shenyan) Huang - Quality Control, and code contributor
 ## **Progress Breakdown:**
 
 -[x]Create Master Combined table (all years)  
--[]Data cleaning to unify data formats and data validation  
--[]Splitting data set to different table for different analysis  
+-[x]Data cleaning to unify data formats and data validation  
+-[x]Splitting data set to different table for different analysis  
 -[]Perform analysis on each data set  
 -[]Data set visualization  
 -[]Merge codes  
