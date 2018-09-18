@@ -36,7 +36,7 @@ https://www.kaggle.com/rojour/boston-results/home
 
 ## **Rough Breakdown of Tasks:**
 Thomas Nakamoto - Team Lead, checking for merge and overseen repository  
-Edward Chen - Quality Control, and code contributor, increase project level difficulty  
+Edward Chen - Quality Control, and code contributor  
 Eric Song - Quality Control, and code contributor  
 Crystal (Shenyan) Huang - Quality Control, and code contributor   
 
@@ -45,10 +45,10 @@ Crystal (Shenyan) Huang - Quality Control, and code contributor
 -[x]Create Master Combined table (all years)  
 -[x]Data cleaning to unify data formats and data validation  
 -[x]Splitting data set to different table for different analysis  
--[]Perform analysis on each data set  
--[]Data set visualization  
--[]Merge codes  
--[]Final run through on Master branch  
--[]PowerPoint preparation  
--[]Rehearsal  
--[]Presentation  
+-[x]Perform analysis on each data set  
+-[x]Data set visualization  
+-[x]Merge codes  
+-[x]Final run through on Master branch  
+-[x]PowerPoint preparation  
+-[x]Rehearsal  
+-[x]Presentation  
