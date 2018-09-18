@@ -1,7 +1,10 @@
 # **Project Title:** Finisher of Boston Marathon 2015, 2016 & 2017
 
 ## **Team Members:**
-Edward Chen, Thomas Nakamoto, Eric Song, Crystal (Shenyan) Huang
+* Edward Chen
+* Thomas Nakamoto
+* Eric Song
+* Crystal (Shenyan) Huang
 
 ## **Project Description/Outline:**
 
@@ -10,33 +13,17 @@ The original data set contains the name, age, gender, country, city and state (w
 ## **Research Questions to Answer:**
 
 ### **Performance Analysis**
--Performance chart (Time finished vs Number of People)  
--General Performance Comparison chart (USA runner vs Foreign runner)  
--Elite performance vs Normal performance vs world wide  
--Pace progression elite vs normal  
--Regression Analysis on Bib# vs finished time  
--Total population average finish time vs top 100 average finished  
--Did top 50 participants who scheduled more than one year marathon improve their performance from previous year(s)?  
--Total participant vs finished participant  
--Ages affect on performance time  
-
-### **Gender Analysis**
--How many female and male participants in each country?  
--Show comparison of male elite vs female elite ratio  
--Show which country has more male participant and which has more female participant 
-
-### **Geo Data Analysis**
--Which country has the most participants?  
--Marathon day weather condition affect  
--USA participants - Hometown Lat/Lng/Altitude have any correlation with time  
+-[Regression Analysis on Bib# vs finished time](https://github.com/Tom2shoes/betterthangroup5/tree/master/01%20Bib%20Analysis)  
+-[Pace progression elite vs normal](https://github.com/Tom2shoes/betterthangroup5/tree/master/02%20Pacing%20Analysis)  
+-[Experience factor to overall performance](https://github.com/Tom2shoes/betterthangroup5/tree/master/03%20Runner%20Experience%20Analysis)
 
 ## **Data Sets to be Used:**
--Boston Marathon data from Kaggle. Scraped from the official marathon website  
-https://www.kaggle.com/rojour/boston-results/home
+-Boston Marathon data from Kaggle:  
+Scraped from the official marathon [website](https://www.kaggle.com/rojour/boston-results/home)
 
 ## **Rough Breakdown of Tasks:**
 Thomas Nakamoto - Team Lead, checking for merge and overseen repository  
-Edward Chen - Quality Control, and code contributor, increase project level difficulty  
+Edward Chen - Quality Control, and code contributor 
 Eric Song - Quality Control, and code contributor  
 Crystal (Shenyan) Huang - Quality Control, and code contributor   
 
@@ -45,10 +32,10 @@ Crystal (Shenyan) Huang - Quality Control, and code contributor
 -[x]Create Master Combined table (all years)  
 -[x]Data cleaning to unify data formats and data validation  
 -[x]Splitting data set to different table for different analysis  
--[]Perform analysis on each data set  
--[]Data set visualization  
--[]Merge codes  
--[]Final run through on Master branch  
--[]PowerPoint preparation  
--[]Rehearsal  
--[]Presentation  
+-[x]Perform analysis on each data set  
+-[x]Data set visualization  
+-[x]Merge codes  
+-[x]Final run through on Master branch  
+-[x]PowerPoint preparation  
+-[x]Rehearsal  
+-[x]Presentation  
