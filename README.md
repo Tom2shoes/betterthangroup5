@@ -23,7 +23,7 @@ Scraped from the official marathon [website](https://www.kaggle.com/rojour/bosto
 
 ## **Rough Breakdown of Tasks:**
 Thomas Nakamoto - Team Lead, checking for merge and overseen repository  
-Edward Chen - Quality Control, and code contributor 
+Edward Chen - Quality Control, and code contributor  
 Eric Song - Quality Control, and code contributor  
 Crystal (Shenyan) Huang - Quality Control, and code contributor   
 
